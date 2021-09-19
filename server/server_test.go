@@ -2,8 +2,8 @@ package main
 
 import (
 	"encoding/json"
-	"github.com/avicode/go_fullstack_app/file_model"
-	"github.com/avicode/go_fullstack_app/utils"
+	"github.com/avicode/server/go_fullstack_app/file_model"
+	"github.com/avicode/server/go_fullstack_app/utils"
 	"github.com/stretchr/testify/assert"
 	"net/http"
 	"net/http/httptest"

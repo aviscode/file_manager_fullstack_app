@@ -1,4 +1,4 @@
-module github.com/avicode/go_fullstack_app
+module github.com/avicode/server/go_fullstack_app
 
 go 1.16
 

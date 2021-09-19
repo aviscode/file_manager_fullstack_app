@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/avicode/go_fullstack_app/file_model"
+	"github.com/avicode/server/go_fullstack_app/file_model"
 	"github.com/gin-gonic/gin"
 	"net/http"
 	"os"
